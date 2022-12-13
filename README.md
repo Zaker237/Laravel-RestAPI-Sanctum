@@ -40,6 +40,14 @@ DB_USERNAME=<username>
 DB_PASSWORD=<password>
 ```
 
+## Install the dependencies
+
+Tos install the dependencies of the project run the following command at the root of the projects:
+
+```console
+composer install
+```
+
 ## How to run
 
 To test just clone the repo and run the migration using the following command at the root of the project.
